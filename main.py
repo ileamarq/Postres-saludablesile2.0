@@ -35,3 +35,5 @@ if st.button('Consultar'):
     st.markdown(result['answer'])
 
     print(response.content)
+
+    st.write("¡Gracias por usar la aplicación! ¡Hasta luego!")
